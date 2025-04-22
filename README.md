@@ -1,3 +1,5 @@
+###tp_turtle_regulation_Lakshana 
+
 ## Choix du gain proportionnel (Kₚ)
 
 Lors de la Phase 1, j’ai testé trois valeurs de Kₚ pour la commande d’orientation :
